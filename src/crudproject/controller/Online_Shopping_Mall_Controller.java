@@ -17,6 +17,8 @@ public class Online_Shopping_Mall_Controller {
 	static CustomerVO customer;
 	
 	
+	
+	
 	public static void main(String[] args) {
 	
 		Scanner sc = new Scanner(System.in);
